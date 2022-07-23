@@ -1,0 +1,10 @@
+.row {
+  display: flex;
+  padding: 2rem;
+}
+.col-md-5 {
+  width: 100%;
+}
+.person-details {
+  margin: 0px;
+}
